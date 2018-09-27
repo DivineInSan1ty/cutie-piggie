@@ -1,0 +1,7 @@
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\CalcComboBoxConsoleApp1\bin\Debug\CalcComboBoxConsoleApp1.exe.config
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\CalcComboBoxConsoleApp1\bin\Debug\CalcComboBoxConsoleApp1.exe
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\CalcComboBoxConsoleApp1\bin\Debug\CalcComboBoxConsoleApp1.pdb
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\CalcComboBoxConsoleApp1\obj\Debug\CalcComboBoxConsoleApp1.csprojAssemblyReference.cache
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\CalcComboBoxConsoleApp1\obj\Debug\CalcComboBoxConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\CalcComboBoxConsoleApp1\obj\Debug\CalcComboBoxConsoleApp1.exe
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\CalcComboBoxConsoleApp1\obj\Debug\CalcComboBoxConsoleApp1.pdb

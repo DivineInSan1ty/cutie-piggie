@@ -1,0 +1,10 @@
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\TugasAplikasiKalkulator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
