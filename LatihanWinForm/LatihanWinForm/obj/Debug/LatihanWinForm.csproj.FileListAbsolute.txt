@@ -1,0 +1,19 @@
+D:\17.11.1019\pertemuan3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\17.11.1019\pertemuan3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+D:\17.11.1019\pertemuan3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+D:\17.11.1019\pertemuan3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\17.11.1019\pertemuan3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+D:\17.11.1019\pertemuan3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\17.11.1019\pertemuan3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\17.11.1019\pertemuan3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\17.11.1019\pertemuan3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\chapter 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojAssemblyReference.cache
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\chapter 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\chapter 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\chapter 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.cache
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\chapter 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\chapter 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\chapter 3\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\chapter 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\chapter 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+E:\Kuliah\Sem 3\Pemrograman Lanjut\Aplikasi\chapter 3\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
